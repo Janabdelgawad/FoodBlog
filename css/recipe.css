@@ -1,0 +1,16 @@
+body {
+    background: linear-gradient(#ffd1ff, #d70f94);
+}
+body > a:first-child{
+    color: #d70f94;
+    text-decoration: none;
+}
+body li {
+    list-style: none;
+}
+body span {
+    display: block;
+}
+body * {
+    text-align: center;
+}
